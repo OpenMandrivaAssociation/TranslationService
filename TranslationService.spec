@@ -1,7 +1,7 @@
 Name:               TranslationService
 Summary:            A Zope product to provide translation
 Version:            0.4
-Release:            %mkrel 3
+Release:            %mkrel 4
 Group:              Development/Python
 Requires:           zope
 License:            GPL
