@@ -5,7 +5,7 @@ Release:            1mdk
 Group:              Development/Python
 Requires:           zope
 License:            GPL
-URL:                http://www.zope.org/Members/efge/TranslationService
+URL:                https://www.zope.org/Members/efge/TranslationService
 Packager:           Sebastien Robin <seb@nexedi.com>
 BuildRoot:          %{_tmppath}/%{name}-%{version}-rootdir
 Buildarch:          noarch
